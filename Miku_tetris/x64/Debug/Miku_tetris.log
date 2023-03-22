@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\zhazhalc\Desktop\Miku_tetris\Miku_tetris\main.cpp(110,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\zhazhalc\Desktop\Miku_tetris\Miku_tetris\main.cpp(112,37): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\zhazhalc\Desktop\Miku_tetris\Miku_tetris\main.cpp(114,41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\zhazhalc\Desktop\Miku_tetris\Miku_tetris\main.cpp(116,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\zhazhalc\Desktop\Miku_tetris\Miku_tetris\main.cpp(117,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\zhazhalc\Desktop\Miku_tetris\Miku_tetris\main.cpp(149,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\zhazhalc\Desktop\Miku_tetris\Miku_tetris\main.cpp(150,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\zhazhalc\Desktop\Miku_tetris\Miku_tetris\main.cpp(434,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  Miku_tetris.vcxproj -> C:\Users\zhazhalc\Desktop\Miku_tetris\x64\Debug\Miku_tetris.exe
